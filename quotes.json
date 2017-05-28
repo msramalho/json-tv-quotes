@@ -1,0 +1,9 @@
+[
+    { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "Pain tethers me to the world", "author": "Finch" },
+    { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "Intentions can be a fickle business.", "author": "Finch" },
+    { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "I missed on purpose, jackass.", "author": "Shaw" },
+    { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Never send a human to do a machine's job.", "author": "Agent Smith" },
+    { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Dodge this.", "author": "Trinity" },
+    { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Stop trying to hit me and hit me.", "author": "Morpheus" },
+    { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Do you think that's air you're breathing now?", "author": "Morpheus" }
+]
