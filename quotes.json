@@ -1,4 +1,5 @@
-[
+{
+    "qts" : [
     { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "Pain tethers me to the world", "author": "Finch" },
     { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "Intentions can be a fickle business.", "author": "Finch" },
     { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "I missed on purpose, jackass.", "author": "Shaw" },
@@ -18,6 +19,5 @@
     { "type": "tv", "language": "eng", "source": "Always Sunny in Philadelphia", "quote": "See, I’ve always got an A, B and C strike plan to get us out of any potentially life-threatening situation.", "author": "Mac" },
     { "type": "tv", "language": "eng", "source": "Always Sunny in Philadelphia", "quote": "If you're in my room, you're always being filmed.", "author": "Dennis" },
     { "type": "tv", "language": "eng", "source": "Always Sunny in Philadelphia", "quote": "I’m not gonna be buried in a grave. When I’m dead, just throw me in the trash.", "author": "Frank" }
-
-
-]
+    ]
+}
