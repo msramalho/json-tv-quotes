@@ -167,6 +167,20 @@
         "author": "Moss"
     },
     {
+        "type": "tv",
+        "language": "eng",
+        "source": "The IT Crowd",
+        "quote": "0118 999 881 999 119 7253",
+        "author": "Moss"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The IT Crowd",
+        "quote": "The Elders of the Internet know who I am?!",
+        "author": "Jen"
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "The Prestige",
@@ -253,10 +267,59 @@
     {
         "type": "tv",
         "language": "eng",
+        "source": "Game of Thrones",
+        "quote": "You know nothing Jon Snow.",
+        "author": "Ygritte"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Game of Thrones",
+        "quote": "Winter is coming.",
+        "author": "The Starks"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Game of Thrones",
+        "quote": "Hodor.",
+        "author": "Hodor"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Game of Thrones",
+        "quote": "Any man who must say \"I am the king\" is no true king.",
+        "author": "Tyrion Lannister"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Game of Thrones",
+        "quote": "A Lannister always pays his debts.",
+        "author": "Tyrion Lannister"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
         "source": "Rick and Morty",
         "quote": "They’re just robots, Morty! It’s OK to shoot them! They’re robots!",
         "author": "Rick Sanchez"
     },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Dexter",
+        "quote": "Suprise, motherfucker!!",
+        "author": "Doakes"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Dexter",
+        "quote": "Shut up, cunt!!",
+        "author": "The trinity killer"
+    }, 
     {
         "type": "movie",
         "language": "eng",
