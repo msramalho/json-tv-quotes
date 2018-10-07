@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "Why So Serious?",
+        "author": "Joker"
     }
 ]
