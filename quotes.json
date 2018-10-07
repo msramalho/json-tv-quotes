@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "You either die a hero or live long enough to see yourself become the villian.",
+        "author": "Harvey Dent"
     }
 ]
