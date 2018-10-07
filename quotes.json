@@ -297,5 +297,19 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+	{
+        "type": "movie",
+        "language": "eng",
+        "source": "Raising Arizona",
+        "quote": "I'll be taking these Huggies and-uh-whatever cash ya got.",
+        "author": "H.I. McDonnough"
+    },
+	{
+        "type": "movie",
+        "language": "eng",
+        "source": "Raising Arizona",
+        "quote": "Aw, it ain't armed robbery if the gun ain't loaded.",
+        "author": "H.I. McDonnough"
     }
 ]
