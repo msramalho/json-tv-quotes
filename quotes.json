@@ -15,6 +15,13 @@
     {
         "type": "tv",
         "language": "eng",
+        "source": "Red Dwarf",
+        "quote": "They're all dead. Everybody's dead, Dave.",
+        "author": "Holly"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
         "source": "Person Of Interest",
         "quote": "I missed on purpose, jackass.",
         "author": "Shaw"
