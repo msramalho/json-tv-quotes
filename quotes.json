@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "ru",
+        "source": "Acid",
+        "quote": "What can you give the world besides an iPhone charger?",
+        "author": "Alexander"
     }
 ]
