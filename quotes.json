@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
-    }
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man",
+        "quote": "Get ready to fight",
+        "author": "Stan Lee
+     }
 ]
