@@ -304,5 +304,12 @@
         "source": "Avengers: Infinity War",
         "quote": "Mr. Stark, I don't feel so good",
         "author": "Peter Parker"
-    }
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "To Kill a Mockingbird",
+        "quote": "The one thing that doesn't abide by majority rule is a person's conscience.",
+        "author": "Atticus Finch"
+    },
 ]
