@@ -26,5 +26,6 @@
     { "type": "movie", "language": "eng", "source": "The Prestige", "quote": "They'll beg you and they'll flatter you for the secret, but as soon as you give it up... you'll be nothing to them", "author": "Alfred Borden" }  
     { "type": "tv", "language": "eng", "source": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "quote": "They have neither the time, the training, nor the inclination for strategic thought. I can no longer sit back and allow Communist infiltration, Communist indoctrination, Communist subversion and the international Communist conspiracy to sap and impurify all of our precious bodily fluids.", "author": "Jack D. Ripper" }  
     { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "When you play the game of thrones, you win or you die. There is no middle ground.", "author": "Cersei Lannister" },
-    ]
+    { "type": "movie", "language": "eng", "source": "Into The Wild", "quote": "You are wrong if you think Joy emanates only or principally from human relationships. God has placed it all around us. It is in everything and anything we might experience. We just have to have the courage to turn against our habitual lifestyle and engage in unconventional living.", "author": "Jon Krakauer" }
+	]
 }
