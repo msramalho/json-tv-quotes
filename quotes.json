@@ -297,5 +297,27 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "Ah yes, I was wondering what would break first. Your spirit, or your body?",
+        "author": "Bane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "I AM the League of Shadows, and I'm here to fulfill Ra's al Ghul's destiny!",
+        "author": "Bane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "Calm down, Doctor! Now's not the time for fear. That comes later.",
+        "author": "Bane"
     }
+
 ]
