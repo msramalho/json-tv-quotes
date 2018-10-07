@@ -32,12 +32,13 @@
     { "type": "tv", "language": "eng", "source": "Archer", "quote": "He’s not coming back from that. That chick was, like, the Pele of anal."},
     { "type": "tv", "language": "eng", "source": "Archer", "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."}
     { "type": "movie", "language": "eng", "source": "The Dark Knight Rises", "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.", "author": "Bruce Wayne" }
-    { "type": "tv", "language": "eng", "source": "The IT Crowd", "quote": "Have you tried turning it off and on again?", "author": "Roy" },
-    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "When you play the game of thrones, you win or you die. There is no middle ground.", "author": "Cersei Lannister" },
-    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "Tears aren't a woman's only weapon. The best one's between your legs.", "author": "Cersei Lannister" },
-    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "Never forget what you are, the rest of the world will not. Wear it like armor and it can never be used to hurt you.", "author": "Tyrion Lannister" },
-    { "type": "tv", "language": "eng", "source": "Rick and Morty", "quote": "They’re just robots, Morty! It’s OK to shoot them! They’re robots!", "author": "Rick Sanchez" },
+    { "type": "tv", "language": "eng", "source": "The IT Crowd", "quote": "Have you tried turning it off and on again?", "author": "Roy"},
+    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "When you play the game of thrones, you win or you die. There is no middle ground.", "author": "Cersei Lannister"},
+    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "Tears aren't a woman's only weapon. The best one's between your legs.", "author": "Cersei Lannister"},
+    { "type": "tv", "language": "eng", "source": "Game of Thrones", "quote": "Never forget what you are, the rest of the world will not. Wear it like armor and it can never be used to hurt you.", "author": "Tyrion Lannister"},
+    { "type": "tv", "language": "eng", "source": "Rick and Morty", "quote": "They’re just robots, Morty! It’s OK to shoot them! They’re robots!", "author": "Rick Sanchez"},
     { "type": "movie", "language": "eng", "source": "Fight Club", "quote": "You met me at a very strange time in my life."},
-    { "type": "movie", "language": "eng", "source": "Taken", "quote": "I will look for you, I will find you, and I will kill you.", "author": "Bryan Mills" }
+    { "type": "movie", "language": "eng", "source": "Taken", "quote": "I will look for you, I will find you, and I will kill you.", "author": "Bryan Mills"},
+    { "type": "movie", "language": "eng", "source": "Kingsman: Secret Service", "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.", "author": "Harry Hart"}
     ]
 }
