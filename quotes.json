@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Love Story (1970)",
+        "quote": "Love means never having to say you're sorry.",
+        "author": "Erich Segal"
     }
 ]
