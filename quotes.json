@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+	    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "I'm sorry, but your opinion means very little to me",
+        "author": "Rick Sanchez"
     }
 ]
