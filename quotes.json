@@ -4,7 +4,7 @@
     { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "Intentions can be a fickle business.", "author": "Finch" },
     { "type": "tv", "language": "eng", "source": "Person Of Interest", "quote": "I missed on purpose, jackass.", "author": "Shaw" },
     { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Never send a human to do a machine's job.", "author": "Agent Smith" },
-    { "type": "movie", "language": "eng", "source": "Gone With the Wind", "quote": "Frankly, my dear, I don't give a damn.", "author": "Rhett Butler" },
+    { "type": "movie", "language": "eng", "source": "Gone With the Wind", "quote": "Frankly, my dear, I don't give a damn.", "author": "Charles Xavier/Professor X" },
     { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Dodge this.", "author": "Trinity" },
     { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Stop trying to hit me and hit me.", "author": "Morpheus" },
     { "type": "movie", "language": "eng", "source": "Matrix", "quote": "Do you think that's air you're breathing now?", "author": "Morpheus" },
@@ -40,6 +40,7 @@
     { "type": "movie", "language": "eng", "source": "Fight Club", "quote": "You met me at a very strange time in my life."},
     { "type": "movie", "language": "eng", "source": "Taken", "quote": "I will look for you, I will find you, and I will kill you.", "author": "Bryan Mills"},
     { "type": "movie", "language": "eng", "source": "Kingsman: Secret Service", "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.", "author": "Harry Hart"},
-    { "type": "movie", "language": "eng", "source": "Into The Wild", "quote": "You are wrong if you think joy emanates only or principally from human relationships. God has placed it all around us. It is in everything and anything we might experience. We just have to have the courage to turn against our habitual lifestyle and engage in unconventional living.", "author": "Jon Krakauer"}
+    { "type": "movie", "language": "eng", "source": "Into The Wild", "quote": "You are wrong if you think joy emanates only or principally from human relationships. God has placed it all around us. It is in everything and anything we might experience. We just have to have the courage to turn against our habitual lifestyle and engage in unconventional living.", "author": "Jon Krakauer"},
+    { "type": "movie", "language": "eng", "source": "X-Men: Days of Future Past", "quote": "Just because someone stumbles and loses their path, doesn't mean they're lost forever.", "author": "Charles Xavier/Professor X"}
     ]
 }
