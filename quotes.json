@@ -298,4 +298,12 @@
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
     }
+    {
+ 
+        "type": "movie",
+        "language":"eng",
+        "source":"The Wolf of Wall Street",
+        "quote":"You gonna have to excuse my friend",
+        "author":"Jordan"
+    }
 ]
