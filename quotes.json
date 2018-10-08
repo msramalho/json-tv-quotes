@@ -287,6 +287,13 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Zoolander",
+        "quote": "I’m pretty sure there’s a lot more to life than being really, really good looking. And I plan on finding out what that is.",
+        "author": "Derek Zoolander"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "X-Men: Days of Future Past",
         "quote": "Just because someone stumbles and loses their path, doesn't mean they're lost forever.",
         "author": "Charles Xavier/Professor X"
