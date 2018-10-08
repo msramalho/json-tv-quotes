@@ -318,5 +318,11 @@
         "source": "Vanilla Sky",
         "quote": "Just remember, the sweet is never as sweet without the sour.",
         "author": "Brian"
+    },
+    {
+        "type": "movie",
+        "language": "eng","source": "Acid",
+        "quote": "What can you give the world besides an iPhone charger?",
+        "author": "Alexander"
     }
 ]
