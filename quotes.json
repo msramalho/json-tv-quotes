@@ -141,6 +141,20 @@
     {
         "type": "tv",
         "language": "eng",
+        "source": "Always Sunny in Philadelphia",
+        "quote": "Hello fellow American. This you should vote me. I leave power. Good. Thank you, thank you.",
+        "author": "Dennis"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Always Sunny in Philadelphia",
+        "quote": "I'm a-- full-on rapist, you know? Uh, Africans, dyslexics, children, that sorta thing. ",
+        "author": "Charlie"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
         "source": "Person Of Interest",
         "quote": "I looked for an 'I'm-sorry-I-got-you-shot' card, but they were all out.",
         "author": "Joss Carter"
@@ -223,13 +237,15 @@
         "language": "eng",
         "source": "Archer",
         "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."
-    } {
+    },
+	{
         "type": "movie",
         "language": "eng",
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    } {
+    },
+	{
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -301,9 +317,23 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Glengarry Glen Ross",
+        "quote": "You see this watch? That watch cost more than your car.",
+        "author": "Blake"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "The Dark Knight",
         "quote": "You either die a hero or live long enough to see yourself become the villian.",
         "author": "Harvey Dent"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Glengarry Glen Ross",
+        "quote": "Put that coffee down! Coffee is for closers only.",
+        "author": "Blake"
     },
     {
         "type": "movie",
