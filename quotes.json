@@ -223,13 +223,13 @@
         "language": "eng",
         "source": "Archer",
         "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."
-    } {
+    }, {
         "type": "movie",
         "language": "eng",
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    } {
+    } ,{
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -297,5 +297,19 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Westworld",
+        "quote": "You can't play God without being acquainted with the devil.",
+        "author": "Dr. Robert Ford"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Westworld",
+        "quote": "These violent delights have violent ends.",
+        "author": "Dolores Abernathy"
     }
 ]
