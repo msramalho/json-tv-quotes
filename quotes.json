@@ -849,5 +849,40 @@
         "source": "The Wolf of Wall Street",
         "quote": "You gonna have to excuse my friend",
         "author": "Jordan"
+    },
+    {
+        "type":"tv",
+        "language":"eng",
+        "source": "M*A*S*H",
+        "quote": "Ladies and Gentlemen take my advice, pull do your pants and slide on the ice",
+        "author": "Dr. Sidney Friedman"
+    },
+    {
+        "type":"tv",
+        "language":"eng",
+        "source": "M*A*S*H",
+        "quote": "I do one thing at a time, I do it very well. And then, I move on",
+        "author": "Dr. Charles Emmerson-Winchester III"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Green Mile",
+        "quote": "We each owe a death - there are no exceptions - but, oh God, sometimes the Green Mile seems so long",
+        "author": "Paul Edgecomb"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Young Frankenstein",
+        "quote": "There wolf; there castle",
+        "author": "Igor"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source:": "A Bit of Fry & Laurie",
+        "quote": "Hold the newsreader’s nose squarely, waiter, or friendly milk will countermand my trousers",
+        "author": "Stephen Fry"
     }
 ]
