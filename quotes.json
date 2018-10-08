@@ -223,13 +223,15 @@
         "language": "eng",
         "source": "Archer",
         "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."
-    } {
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    } {
+    },
+    {
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -304,5 +306,5 @@
         "source": "Grey's Anatomy",
         "quote": "Oh, screw beautiful. I'm brilliant. If you want to appease me, compliment my brain!",
         "author": "Christina Yang"
-    },
+    }
 ]
