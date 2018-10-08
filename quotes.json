@@ -849,5 +849,19 @@
         "source": "The Wolf of Wall Street",
         "quote": "You gonna have to excuse my friend",
         "author": "Jordan"
+    },
+    {
+        "type":"tv",
+        "language":"eng",
+        "source": "M*A*S*H",
+        "quote": "Ladies and Gentlemen take my advice, pull do your pants and slide on the ice",
+        "author": "Dr. Sidney Friedman"
+    },
+    {
+        "type":"tv",
+        "language":"eng",
+        "source": "M*A*S*H",
+        "quote": "I do one thing at a time, I do it very well. And then, I move on",
+        "author": "Dr. Charles Emmerson-Winchester III"
     }
 ]
