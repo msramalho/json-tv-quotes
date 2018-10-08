@@ -863,5 +863,12 @@
         "source": "M*A*S*H",
         "quote": "I do one thing at a time, I do it very well. And then, I move on",
         "author": "Dr. Charles Emmerson-Winchester III"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Green Mile",
+        "quote": "We each owe a death - there are no exceptions - but, oh God, sometimes the Green Mile seems so long",
+        "author": "Paul Edgecomb"
     }
 ]
