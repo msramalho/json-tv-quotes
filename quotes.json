@@ -141,6 +141,20 @@
     {
         "type": "tv",
         "language": "eng",
+        "source": "Always Sunny in Philadelphia",
+        "quote": "Hello fellow American. This you should vote me. I leave power. Good. Thank you, thank you.",
+        "author": "Dennis"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Always Sunny in Philadelphia",
+        "quote": "I'm a-- full-on rapist, you know? Uh, Africans, dyslexics, children, that sorta thing. ",
+        "author": "Charlie"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
         "source": "Person Of Interest",
         "quote": "I looked for an 'I'm-sorry-I-got-you-shot' card, but they were all out.",
         "author": "Joss Carter"
@@ -223,13 +237,15 @@
         "language": "eng",
         "source": "Archer",
         "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."
-    } {
+    },
+	{
         "type": "movie",
         "language": "eng",
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    } {
+    },
+	{
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -298,18 +314,108 @@
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
     },
-	{
+	  {
         "type": "movie",
         "language": "eng",
         "source": "Raising Arizona",
         "quote": "I'll be taking these Huggies and-uh-whatever cash ya got.",
         "author": "H.I. McDonnough"
     },
-	{
+	  {
         "type": "movie",
         "language": "eng",
         "source": "Raising Arizona",
         "quote": "Aw, it ain't armed robbery if the gun ain't loaded.",
         "author": "H.I. McDonnough"
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Glengarry Glen Ross",
+        "quote": "You see this watch? That watch cost more than your car.",
+        "author": "Blake"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "You either die a hero or live long enough to see yourself become the villian.",
+        "author": "Harvey Dent"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Glengarry Glen Ross",
+        "quote": "Put that coffee down! Coffee is for closers only.",
+        "author": "Blake"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Infinity War",
+        "quote": "Mr. Stark, I don't feel so good",
+        "author": "Peter Parker/Spiderman"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man",
+        "quote": "Get ready to fight",
+        "author": "Stan Lee"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Love Story (1970)",
+        "quote": "Love means never having to say you're sorry.",
+        "author": "Erich Segal"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "I'm sorry, but your opinion means very little to me",
+        "author": "Rick Sanchez"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Thor: Ragnarok",
+        "quote": "Another day another Doug",
+        "author": "Korg"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Infinity War",
+        "quote": "Bring me Thanos!",
+        "author": "Thor"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "To Kill a Mockingbird",
+        "quote": "The one thing that doesn't abide by majority rule is a person's conscience.",
+        "author": "Atticus Finch"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Vanilla Sky",
+        "quote": "Just remember, the sweet is never as sweet without the sour.",
+        "author": "Brian"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Acid",
+        "quote": "What can you give the world besides an iPhone charger?",
+        "author": "Alexander"
+    },
+    {
+        "type": "movie",
+        "language":"eng",
+        "source":"The Wolf of Wall Street",
+        "quote":"You gonna have to excuse my friend",
+        "author":"Jordan"
     }
 ]
