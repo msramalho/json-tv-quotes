@@ -297,5 +297,12 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Inception",
+        "quote": "You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you don't know for sure. Yet it doesn't matter, because we'll be together.",
+        "author": "Mal"
     }
 ]
