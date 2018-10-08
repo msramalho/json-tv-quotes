@@ -870,5 +870,12 @@
         "source": "The Green Mile",
         "quote": "We each owe a death - there are no exceptions - but, oh God, sometimes the Green Mile seems so long",
         "author": "Paul Edgecomb"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Young Frankenstein",
+        "quote": "There wolf; there castle",
+        "author": "Igor"
     }
 ]
