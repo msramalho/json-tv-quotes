@@ -301,6 +301,13 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Iron Man",
+        "quote": "Get ready to fight",
+        "author": "Stan Lee
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Love Story (1970)",
         "quote": "Love means never having to say you're sorry.",
         "author": "Erich Segal"
