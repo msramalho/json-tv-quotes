@@ -301,6 +301,13 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "You either die a hero or live long enough to see yourself become the villian.",
+        "author": "Harvey Dent"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Avengers: Infinity War",
         "quote": "Mr. Stark, I don't feel so good",
         "author": "Peter Parker/Spiderman"
