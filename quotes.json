@@ -583,13 +583,15 @@
         "type": "tv",
         "language": "eng",
         "source": "Archer",
-        "quote": "If I stop drinking all at once, I’m afraid the cumulative hangover will kill me."
+        "quote": "If I stop drinking all at once, I’m afraid the cumulative hangover will kill me.",
+		    "author": "Sterling Archer"
     },
     {
         "type": "tv",
         "language": "eng",
         "source": "Archer",
-        "quote": "Hey, proposition: first person to untie me—guy or gal—I will let him or her give me a handy. Come on, let’s share the milk of human kindness!"
+        "quote": "Hey, proposition: first person to untie me—guy or gal—I will let him or her give me a handy. Come on, let’s share the milk of human kindness!",
+		    "author": "Sterling Archer"
     },
     {
         "type": "tv",
@@ -601,13 +603,15 @@
         "type": "tv",
         "language": "eng",
         "source": "Archer",
-        "quote": "He’s not coming back from that. That chick was, like, the Pele of anal."
+        "quote": "He’s not coming back from that. That chick was, like, the Pele of anal.",
+		    "author": "Sterling Archer"
     },
     {
         "type": "tv",
         "language": "eng",
         "source": "Archer",
-        "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck."
+        "quote": "I’m not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The … tactleneck.",
+		    "author": "Sterling Archer"
     },
     {
         "type": "movie",
@@ -691,6 +695,13 @@
         "source": "Titanic",
         "quote": "Jack! Come back! Come back! Come back!.",
         "author": "Rose"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Westworld",
+        "quote": "You can't play God without being acquainted with the devil.",
+        "author": "Dr. Robert Ford"
     },
     {
         "type": "tv",
@@ -782,6 +793,13 @@
         "source": "Love Story (1970)",
         "quote": "Love means never having to say you're sorry.",
         "author": "Erich Segal"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Westworld",
+        "quote": "These violent delights have violent ends.",
+        "author": "Dolores Abernathy"
     },
     {
         "type": "tv",
