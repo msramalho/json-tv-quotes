@@ -397,5 +397,13 @@
         "source": "Acid",
         "quote": "What can you give the world besides an iPhone charger?",
         "author": "Alexander"
+    },
+    {
+        "type": "movie",
+        "language":"eng",
+        "source":"The Wolf of Wall Street",
+        "quote":"You gonna have to excuse my friend",
+        "author":"Jordan"
     }
+]
 ]
