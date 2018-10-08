@@ -324,8 +324,78 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "You either die a hero or live long enough to see yourself become the villian.",
+        "author": "Harvey Dent"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Glengarry Glen Ross",
         "quote": "Put that coffee down! Coffee is for closers only.",
         "author": "Blake"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Infinity War",
+        "quote": "Mr. Stark, I don't feel so good",
+        "author": "Peter Parker/Spiderman"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man",
+        "quote": "Get ready to fight",
+        "author": "Stan Lee"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Love Story (1970)",
+        "quote": "Love means never having to say you're sorry.",
+        "author": "Erich Segal"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "I'm sorry, but your opinion means very little to me",
+        "author": "Rick Sanchez"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Thor: Ragnarok",
+        "quote": "Another day another Doug",
+        "author": "Korg"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Infinity War",
+        "quote": "Bring me Thanos!",
+        "author": "Thor"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "To Kill a Mockingbird",
+        "quote": "The one thing that doesn't abide by majority rule is a person's conscience.",
+        "author": "Atticus Finch"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Vanilla Sky",
+        "quote": "Just remember, the sweet is never as sweet without the sour.",
+        "author": "Brian"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Acid",
+        "quote": "What can you give the world besides an iPhone charger?",
+        "author": "Alexander"
     }
 ]
