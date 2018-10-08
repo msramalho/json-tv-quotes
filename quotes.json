@@ -345,6 +345,13 @@
         "type": "movie",
         "language": "eng",
         "source": "The Dark Knight",
+        "quote": "Why So Serious?",
+        "author": "Joker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Dark Knight",
         "quote": "You either die a hero or live long enough to see yourself become the villian.",
         "author": "Harvey Dent"
     },
