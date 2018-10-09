@@ -898,5 +898,12 @@
         "source:": "A Bit of Fry & Laurie",
         "quote": "Hold the newsreader’s nose squarely, waiter, or friendly milk will countermand my trousers",
         "author": "Stephen Fry"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source:": "Forrest Gump",
+        "quote": "Run, Forrest, run!",
+        "author": "Genny Curran"
     }
 ]
