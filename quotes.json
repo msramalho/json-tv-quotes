@@ -902,7 +902,7 @@
     {
         "type": "movie",
         "language": "eng",
-        "source:": "Forrest Gump",
+        "source": "Forrest Gump",
         "quote": "Run, Forrest, run!",
         "author": "Genny Curran"
     },
@@ -912,6 +912,20 @@
          "source" : "Iron Man 3",
          "quote" : "We create our own demons",
          "author" : "Tony Stark"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Godfather",
+        "quote": "I'm gonna make him an offer he can't refuse.",
+        "author": "Don Corleone"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+        "author": "Andy Dufresne"
     }
- 
+
 ]
