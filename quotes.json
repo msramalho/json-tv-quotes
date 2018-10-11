@@ -865,15 +865,15 @@
         "author": "Jordan"
     },
     {
-        "type":"tv",
-        "language":"eng",
+        "type": "tv",
+        "language": "eng",
         "source": "M*A*S*H",
         "quote": "Ladies and Gentlemen take my advice, pull do your pants and slide on the ice",
         "author": "Dr. Sidney Friedman"
     },
     {
-        "type":"tv",
-        "language":"eng",
+        "type": "tv",
+        "language": "eng",
         "source": "M*A*S*H",
         "quote": "I do one thing at a time, I do it very well. And then, I move on",
         "author": "Dr. Charles Emmerson-Winchester III"
@@ -907,11 +907,11 @@
         "author": "Genny Curran"
     },
     {
-         "type" : "movie",
-         "language" : "eng",
-         "source" : "Iron Man 3",
-         "quote" : "We create our own demons",
-         "author" : "Tony Stark"
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man 3",
+        "quote": "We create our own demons",
+        "author": "Tony Stark"
     },
     {
         "type": "movie",
@@ -926,6 +926,12 @@
         "source": "The Shawshank Redemption",
         "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
         "author": "Andy Dufresne"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Pacific Rim",
+        "quote": "Today, at the edge of our hope, at the end of our time, we have chosen not only to believe in ourselves, but in each other. Today we face the monsters that are at our door. Today, we take the fight to them. Today we are canceling the apocalypse!",
+        "author": "Stacker Pentecost"
     }
-
 ]
