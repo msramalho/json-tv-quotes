@@ -934,5 +934,12 @@
         "source": "Pacific Rim",
         "quote": "Today, at the edge of our hope, at the end of our time, we have chosen not only to believe in ourselves, but in each other. Today we face the monsters that are at our door. Today, we take the fight to them. Today we are canceling the apocalypse!",
         "author": "Stacker Pentecost"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Avengers",
+        "quote": "We have a hulk!",
+        "author": "Tony Stark"
     }
 ]
