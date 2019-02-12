@@ -941,5 +941,12 @@
         "source": "The Avengers",
         "quote": "We have a hulk!",
         "author": "Tony Stark"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Futurama",
+        "quote": "I say the whole world must learn of our peaceful ways... by force!",
+        "author": "Bender"
     }
 ]
