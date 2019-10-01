@@ -21,6 +21,7 @@ if (!port || (port && isNaN(Number.parseInt(port)))) {
 }
 
 app.listen(port);
+console.log(`Server online on port ${port}.`);
 
 /**
  * Return all quotes
@@ -71,7 +72,7 @@ app.get('/language/:lang', (req: Request, res: Response): Response => {
  * @param author Author
  */
 app.get('/author/:author', (req: Request, res: Response): Response => {
-    let ret = quotes.filter((quote: Quote) => quote.author && quote.author === req.params.author);
+    let ret = quotes.filter((quote: Quote) => quote.author && quote.author.toLowerCase().includes(req.params.author.toLowerCase()));
     return res.json(ret);
 });
 
