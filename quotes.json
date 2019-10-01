@@ -948,5 +948,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Watchmen",
+        "quote": "I'm not locked in here with you. You're locked in here with me!",
+        "author": "Rorschach"
     }
 ]
