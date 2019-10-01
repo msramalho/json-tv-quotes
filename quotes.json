@@ -948,5 +948,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode V: The Empire Strikes Back",
+        "quote": "No. Try not. Do… or do not. There is no try.",
+        "author": "Yoda",
     }
 ]
