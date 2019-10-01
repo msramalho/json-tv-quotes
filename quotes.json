@@ -948,5 +948,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "As Good as It Gets",
+        "quote": "People who talk in metaphors oughta shampoo my crotch.",
+        "author": "Melvin Udall"
     }
 ]
