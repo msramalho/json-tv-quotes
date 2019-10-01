@@ -948,5 +948,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Scarface",
+        "quote": "The eyes, Chico. They never lie",
+        "author": "Tony Montana"
     }
 ]
