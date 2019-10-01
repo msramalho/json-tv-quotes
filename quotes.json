@@ -948,5 +948,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dr. Strangelove",
+        "quote": "Gentlemen, you can't fight in here! This is the war room!",
+        "author": "President Merkin Muffley"
     }
 ]
