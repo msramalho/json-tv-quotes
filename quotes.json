@@ -656,13 +656,6 @@
         "author": "Tyrion Lannister"
     },
     {
-        "type": "tv",
-        "language": "eng",
-        "source": "Rick and Morty",
-        "quote": "They’re just robots, Morty! It’s OK to shoot them! They’re robots!",
-        "author": "Rick Sanchez"
-    },
-    {
         "type": "movie",
         "language": "eng",
         "source": "Fight Club",
@@ -954,5 +947,19 @@
         "source": "Avengers: Endgame",
         "quote": "I Love You 3000",
         "author": "Morgan"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "As Good as It Gets",
+        "quote": "People who talk in metaphors oughta shampoo my crotch.",
+        "author": "Melvin Udall"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Supernatural",
+        "quote": "Decide to be fine until the end of the week. Make yourself smile, because you’re alive and that’s your job. Then do it again the next week.",
+        "author": "Frank"
     }
 ]
