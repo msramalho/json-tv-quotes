@@ -942,6 +942,13 @@
         "author": "Bender"
     },
     {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dr. Strangelove",
+        "quote": "Gentlemen, you can't fight in here! This is the war room!",
+        "author": "President Merkin Muffley"
+    },
+    {
         "type": "tv",
         "language": "eng",
         "source": "Naruto",
