@@ -1,5 +1,4 @@
-[
-    {
+[{
         "type": "tv",
         "language": "eng",
         "source": "Avatar the Last Airbender",
@@ -657,13 +656,6 @@
         "author": "Tyrion Lannister"
     },
     {
-        "type": "tv",
-        "language": "eng",
-        "source": "Rick and Morty",
-        "quote": "They’re just robots, Morty! It’s OK to shoot them! They’re robots!",
-        "author": "Rick Sanchez"
-    },
-    {
         "type": "movie",
         "language": "eng",
         "source": "Fight Club",
@@ -955,6 +947,95 @@
         "source": "Tokyo Ghoul",
         "quote": "Never trust anyone too much, remember the devil was once an angel."
         "author": "Kaneki Ken"
-    }   
-
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode V: The Empire Strikes Back",
+        "quote": "No. Try not. Do… or do not. There is no try.",
+        "author": "Yoda"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Braveheart",
+        "quote": "They may take our lives, but they'll never take our freedom!",
+        "author": "William Wallace"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Scarface",
+        "quote": "The eyes, Chico. They never lie",
+        "author": "Tony Montana"
+     {
+        "type": "movie",
+        "language": "eng",
+        "source": "Kill Bill: Vol.1",
+        "quote": "Revenge is never a straight line. It’s a forest. And like a forest, it’s easy to lose your way...to get lost...to forget where you came in.",
+        "author": "Hattori Hanzo"
+    },
+     {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dr. Strangelove",
+        "quote": "Gentlemen, you can't fight in here! This is the war room!",
+        "author": "President Merkin Muffley"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "If you do not like your destination, do not accept. Instead, have the courage to change it the way you want it to be.",
+        "author": "Naruto Uzumaki"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "If you have no reason to be alive, it is the same as being dead.",
+        "author": "Naruto Uzumaki"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "When a man learns to love, he has to bear the risk of hatred.",
+        "author": "Madara Uchiha"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Watchmen",
+        "quote": "I'm not locked in here with you. You're locked in here with me!",
+        "author": "Rorschach"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Endgame",
+        "quote": "I Love You 3000",
+        "author": "Morgan"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "As Good as It Gets",
+        "quote": "People who talk in metaphors oughta shampoo my crotch.",
+        "author": "Melvin Udall"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "There is no advantage to living life on the run.",
+        "author": "Shikamaru Nara"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Supernatural",
+        "quote": "Decide to be fine until the end of the week. Make yourself smile, because you’re alive and that’s your job. Then do it again the next week.",
+        "author": "Frank"
+    }
 ]
