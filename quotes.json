@@ -1,5 +1,4 @@
-[
-    {
+[{
         "type": "tv",
         "language": "eng",
         "source": "Avatar the Last Airbender",
@@ -941,6 +940,13 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Endgame",
+        "quote": "I Love You 3000",
+        "author": "Morgan"
     },
     {
         "type": "movie",
