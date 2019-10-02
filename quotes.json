@@ -942,6 +942,27 @@
         "author": "Bender"
     },
     {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "If you do not like your destination, do not accept. Instead, have the courage to change it the way you want it to be.",
+        "author": "Naruto Uzumaki"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "If you have no reason to be alive, it is the same as being dead.",
+        "author": "Naruto Uzumaki"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "When a man learns to love, he has to bear the risk of hatred.",
+        "author": "Madara Uchiha"
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "Watchmen",
@@ -961,6 +982,13 @@
         "source": "As Good as It Gets",
         "quote": "People who talk in metaphors oughta shampoo my crotch.",
         "author": "Melvin Udall"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Naruto",
+        "quote": "There is no advantage to living life on the run.",
+        "author": "Shikamaru Nara"
     },
     {
         "type": "tv",
