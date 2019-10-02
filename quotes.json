@@ -945,7 +945,7 @@
         "type": "tv",
         "language": "eng",
         "source": "Tokyo Ghoul",
-        "quote": "Never trust anyone too much, remember the devil was once an angel."
+        "quote": "Never trust anyone too much, remember the devil was once an angel.",
         "author": "Kaneki Ken"
     },
     {
@@ -968,14 +968,15 @@
         "source": "Scarface",
         "quote": "The eyes, Chico. They never lie",
         "author": "Tony Montana"
-     {
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "Kill Bill: Vol.1",
         "quote": "Revenge is never a straight line. It’s a forest. And like a forest, it’s easy to lose your way...to get lost...to forget where you came in.",
         "author": "Hattori Hanzo"
     },
-     {
+    {
         "type": "movie",
         "language": "eng",
         "source": "Dr. Strangelove",
