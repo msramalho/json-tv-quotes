@@ -1,5 +1,7 @@
 # json-tv-quotes
-:movie_camera: A **soon-to-be** comprehensive and community built list of quotes from movies and tv shows. This is meant to be used in any kind of application. If this scales i will build an API wrapper around it.
+:movie_camera: A **soon-to-be** comprehensive and community built list of quotes from movies and tv shows. This is meant to be used in any kind of application. 
+
+An API is available [here](api/) thanks to [@spliitzx](https://github.com/spliitzx)
 
 ## Instructions
  - Simply add your quotes and make a pull request.
