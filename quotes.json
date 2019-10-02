@@ -941,5 +941,12 @@
         "source": "Futurama",
         "quote": "I say the whole world must learn of our peaceful ways... by force!",
         "author": "Bender"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Supernatural",
+        "quote": "Decide to be fine until the end of the week. Make yourself smile, because you’re alive and that’s your job. Then do it again the next week.",
+        "author": "Frank"
     }
 ]
