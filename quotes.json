@@ -1037,5 +1037,12 @@
         "source": "Supernatural",
         "quote": "Decide to be fine until the end of the week. Make yourself smile, because you’re alive and that’s your job. Then do it again the next week.",
         "author": "Frank"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Big Bang Theory",
+        "quote": "Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.",
+        "author": "Sheldon"
     }
 ]
