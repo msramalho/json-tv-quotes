@@ -944,12 +944,18 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Star Wars Episode V: The Empire Strikes Back",
+        "quote": "No. Try not. Do… or do not. There is no try.",
+        "author": "Yoda"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Braveheart",
         "quote": "They may take our lives, but they'll never take our freedom!",
         "author": "William Wallace"
     },
     {
-      {
         "type": "movie",
         "language": "eng",
         "source": "Scarface",
