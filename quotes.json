@@ -1052,6 +1052,12 @@
         "source": "Rick and Morty",
         "quote": "Wubba lubba dub dub!",
         "author": "Rick"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The flintstones",
+        "quote": "yabadabadoo!",
+        "author": "Fred Flintstone"
     }
-      
 ]
