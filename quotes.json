@@ -1066,6 +1066,12 @@
         "source": "Star Wars. The Empire Strikes Back",
         "quote": "No, I am your father",
         "author": "Darth Vader"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The flintstones",
+        "quote": "yabadabadoo!",
+        "author": "Fred Flintstone"
     }
- 
 ]
