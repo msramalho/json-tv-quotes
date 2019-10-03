@@ -1052,5 +1052,12 @@
         "source": "League of Legends",
         "quote": "A morte é como o vento, está sempre ao meu lado.",
         "author": "Yasuo"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "Wubba lubba dub dub!",
+        "author": "Rick"
     }
 ]
