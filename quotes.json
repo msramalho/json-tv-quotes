@@ -1059,5 +1059,13 @@
         "source": "Rick and Morty",
         "quote": "Wubba lubba dub dub!",
         "author": "Rick"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars. The Empire Strikes Back",
+        "quote": "No, I am your father",
+        "author": "Darth Vader"
     }
+ 
 ]
