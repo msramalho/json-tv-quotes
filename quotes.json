@@ -9,6 +9,13 @@
         "type": "tv",
         "language": "eng",
         "source": "Avatar the Last Airbender",
+        "quote": "This tea is nothing more than hot leaf juice!",
+        "author": "Iroh"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Avatar the Last Airbender",
         "quote": "This guy is too good he shoots fire from his brain",
         "author": "Sokka"
     },
