@@ -1094,5 +1094,12 @@
         "source": "Avengers: Infinity War",
         "quote": "The hardest choices require the strongest wills.",
         "author": "Thanos"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Chernobyl",
+        "quote": "Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.",
+        "author": "Valery Legasov"
     }
 ]
