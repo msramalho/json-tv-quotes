@@ -1101,5 +1101,12 @@
         "source": "Chernobyl",
         "quote": "Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.",
         "author": "Valery Legasov"
-    }
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Green Mile",
+        "quote": "People hurt the ones they love. That's how it is all around the world",
+        "author": "John Coffey"
+    }	
 ]
