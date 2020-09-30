@@ -1146,5 +1146,13 @@
     "source": "The Hobbit",
     "quote": "Loyalty, Honor, A willing heart, i can ask no more than that.",
     "author": "J. R. R. Tolkien"
+  },
+
+  {
+    "type": "movie",
+    "language": "eng",
+    "source": "the social network",
+    "quote": "A million dollars isn't cool. You know what's cool? A billion dollars..",
+    "author": "Ben Mezrich"
   }
 ]
