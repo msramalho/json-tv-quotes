@@ -1136,5 +1136,12 @@
         "source": "Pursuit of Happyness",
         "quote": "People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.",
         "author": "Chris Gardner (Will Smith)"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Godfather Part II",
+        "quote": "Keep your friends close, but your enemies closer.",
+        "author": "Michael Corleone"
     }
 ]
