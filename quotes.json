@@ -1185,5 +1185,19 @@
         "source": "the social network",
         "quote": "A million dollars isn't cool. You know what's cool? A billion dollars..",
         "author": "Ben Mezrich"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Fall",
+        "quote": "What a mystery this world, one day you love them and the next day you want to kill them a thousand times over.",
+        "author": "Blue Bandit"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Mists of Avalon",
+        "quote": "No man or woman can live another's fate.",
+        "author": "Viviane"
     }
 ]
