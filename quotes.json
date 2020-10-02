@@ -1133,6 +1133,13 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Kung fu Panda",
+        "quote": "One often meets his destiny on the road he takes to avoid it.",
+        "author": "Master Oogway"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Pursuit of Happyness",
         "quote": "People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.",
         "author": "Chris Gardner (Will Smith)"
