@@ -1166,10 +1166,24 @@
         "author": "Michael Corleone"
     },
     {
-      "type": "movie",
-      "language": "eng",
-      "source": "Star Wars",
-      "quote": "May the Force be with you.",
-      "author": "Han Solo"
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars",
+        "quote": "May the Force be with you.",
+        "author": "Han Solo"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Hobbit",
+        "quote": "Loyalty, Honor, A willing heart, i can ask no more than that.",
+        "author": "J. R. R. Tolkien"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "the social network",
+        "quote": "A million dollars isn't cool. You know what's cool? A billion dollars..",
+        "author": "Ben Mezrich"
     }
 ]
