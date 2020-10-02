@@ -1164,5 +1164,12 @@
         "source": "The Godfather Part II",
         "quote": "Keep your friends close, but your enemies closer.",
         "author": "Michael Corleone"
+    },
+    {
+      "type": "movie",
+      "language": "eng",
+      "source": "Star Wars",
+      "quote": "May the Force be with you.",
+      "author": "Han Solo"
     }
 ]
