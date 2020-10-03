@@ -1192,5 +1192,19 @@
         "source": "Anarchy",
         "quote": "The film tells about the \"cruel games\" of prisoners and the important role of the administration, which controls them using a denunciation system.",
         "author": "Igor Gostev"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Fall",
+        "quote": "What a mystery this world, one day you love them and the next day you want to kill them a thousand times over.",
+        "author": "Blue Bandit"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Mists of Avalon",
+        "quote": "No man or woman can live another's fate.",
+        "author": "Viviane"
     }
 ]
