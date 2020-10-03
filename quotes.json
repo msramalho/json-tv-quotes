@@ -1185,5 +1185,12 @@
         "source": "the social network",
         "quote": "A million dollars isn't cool. You know what's cool? A billion dollars..",
         "author": "Ben Mezrich"
+    },
+    {
+        "type": "movie",
+        "language": "rus",
+        "source": "Anarchy",
+        "quote": "The film tells about the \"cruel games\" of prisoners and the important role of the administration, which controls them using a denunciation system.",
+        "author": "Igor Gostev"
     }
 ]
