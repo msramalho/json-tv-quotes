@@ -1235,4 +1235,11 @@
         "quote": "The man that pushes the boundaries tends to break.",
         "author": "Bodhi"
     }
+	{
+        "type": "movie",
+        "language": "eng",
+        "source": "The Curious Case of Benjamin Button",
+        "quote": "Our lives are defined by opportunities, even the ones we miss.",
+        "author": "Benjamin Button"
+    }
 ]
