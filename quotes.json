@@ -1221,7 +1221,7 @@
         "quote": "All living things can travel through time. It's simple, really. Just wait a moment, and then another, and another. Do this often enough and you will have arrived at tomorrow. Enough tomorrows and you will be dead, adrift without power or patience. At the very end of time, you will ask yourself, \"Where am I right now, and what have I done?\" You will have grown old. You will have hoped, and you will have let go of hope. You will have tried, and you will have failed. Shaped by time and you are that you are not meant nor wish to be and you may be left with someone you loved and all the horrible things you've done for them until finally you will lose the very last thing you have left, yourself.",
         "author": "Katarina Jones"
     },
-     {
+    {
         "type": "tv",
         "language": "eng",
         "source": "Point Break",
@@ -1234,5 +1234,19 @@
         "source": "Point Break",
         "quote": "The man that pushes the boundaries tends to break.",
         "author": "Bodhi"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die. Come watch TV.",
+        "author": "Morty Smith"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "Life is effort and I’ll stop when I die!",
+        "author": "Jerry Smith"
     }
 ]
