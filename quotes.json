@@ -1221,18 +1221,88 @@
         "quote": "All living things can travel through time. It's simple, really. Just wait a moment, and then another, and another. Do this often enough and you will have arrived at tomorrow. Enough tomorrows and you will be dead, adrift without power or patience. At the very end of time, you will ask yourself, \"Where am I right now, and what have I done?\" You will have grown old. You will have hoped, and you will have let go of hope. You will have tried, and you will have failed. Shaped by time and you are that you are not meant nor wish to be and you may be left with someone you loved and all the horrible things you've done for them until finally you will lose the very last thing you have left, yourself.",
         "author": "Katarina Jones"
     },
-     {
+    {
         "type": "tv",
         "language": "eng",
         "source": "Point Break",
         "quote": "We're all going to die. The only question is how.",
         "author": "Bodhi"
     },
-      {
+    {
         "type": "tv",
         "language": "eng",
         "source": "Point Break",
         "quote": "The man that pushes the boundaries tends to break.",
         "author": "Bodhi"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "I know you can read my thoughts, boy: meow, meow, meow, meow, meow...",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Bart, I don't want to alarm you, but there may be a boogie man or boogie men in the house!",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "You don't win friends with salad.",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "I'm normally not a praying man, but if you're up there, please save me, Superman.",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "To alcohol! The cause of, and solution to, all of life's problems!",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Don't blame me, I voted for Kodos.",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Must kill Moe, weee! Must kill Moe, weee!",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "It won't last. Brothers and sisters are natural enemies, like English men and Scots. Or Wales men and Scots. Or Japanese and Scots. Or Scots and other Scots. Damn Scots! They ruined Scotland!",
+        "author": "Willie"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Well, he's got all the money in the world, but there's one thing he can't buy: a dinosaur.",
+        "author": "Homer"
+    },
+    {
+    	"type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Your potato? You can't, like, own a potato, man. It's one of Mother Earth's creatures.",
+        "author": "Homer"
     }
 ]
