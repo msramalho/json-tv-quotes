@@ -1269,5 +1269,33 @@
         "source": "Archer",
         "quote": "Karate? The dane cook of martial arts.",
         "author": "Sterling Archer"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Just remember, every time you look up at the moon, I, too, will be looking at a moon. Not the same moon, obviously, That's impossible.",
+        "author": "Andy Dwyer"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Treat yo self.",
+        "author": "Donna Meagle and Tom Haverford"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Can we have ONE conversation about feminism where MEN get to be in charge?",
+        "author": "Kip Bunthart"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "There’s only one thing I hate more than lying: skim milk. Which is water that’s lying about being milk.",
+        "author": "Ron Swanson"
     }
 ]
