@@ -1248,5 +1248,12 @@
         "source": "Rick and Morty",
         "quote": "Life is effort and I’ll stop when I die!",
         "author": "Jerry Smith"
+    },
+      {
+        "type": "tv",
+        "language": "eng",
+        "source": "F is for Family",
+        "quote": "Oh ho, you're lucky a priest is taking me into the woods!",
+        "author": "Frank Murphy"
     }
 ]
