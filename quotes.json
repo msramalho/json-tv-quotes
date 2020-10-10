@@ -1234,5 +1234,33 @@
         "source": "Point Break",
         "quote": "The man that pushes the boundaries tends to break.",
         "author": "Bodhi"
+    },  
+    {
+    "type": "movie",
+    "language": "eng",
+    "source": "Big Hero 6",
+    "quote": "On a scale of one to ten, how would your rank your pain?",
+    "author": "Jordan Roberts , Robert L. Baird, Dan Gerson"
+    },  
+    {
+    "type": "tv",
+    "language": "eng",
+    "source": "The Marvelous Mrs. Maisel",
+    "quote": "The world is full of disappointments, and sometimes people let you down. You can’t just run away.",
+    "author": "Amy Sherman-Palladino"
+    },  
+    {
+    "type": "tv",
+    "language": "eng",
+    "source": "The Marvelous Mrs. Maisel",
+    "quote": "Life isn’t fair. It’s hard and cruel. You have to pick your friends as if there’s a war going on.",
+    "author": "Amy Sherman-Palladino"
+    },  
+    {
+    "type": "tv",
+    "language": "eng",
+    "source": "The Marvelous Mrs. Maisel",
+    "quote": "Just because there is a door does not mean you use it. A door does not represent infinite possibilities.",
+    "author": "Amy Sherman-Palladino"
     }
 ]
