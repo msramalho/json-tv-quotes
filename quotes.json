@@ -1416,5 +1416,11 @@
         "source": "JoJo's Bizarre Adventure: Stardust Crusaders",
         "quote": "Oh? You're approaching me?",
         "author": "Dio Brando"
+    }, {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Curious Case of Benjamin Button",
+        "quote": "Our lives are defined by opportunities, even the ones we miss.",
+        "author": "Benjamin Button"
     }
 ]
