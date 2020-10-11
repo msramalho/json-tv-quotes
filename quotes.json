@@ -1422,5 +1422,12 @@
         "source": "The Curious Case of Benjamin Button",
         "quote": "Our lives are defined by opportunities, even the ones we miss.",
         "author": "Benjamin Button"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Haikyuu",
+        "quote": "You can fly even higher.",
+        "author": "Tobio Kageyama"
     }
 ]
