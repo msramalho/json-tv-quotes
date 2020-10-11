@@ -1409,5 +1409,12 @@
         "source": "The Godfather",
         "quote": "Great men are not born great, they grow great",
         "author": "Mario Puzo"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "JoJo's Bizarre Adventure: Stardust Crusaders",
+        "quote": "Oh? You're approaching me?",
+        "author": "Dio Brando"
     }
 ]
