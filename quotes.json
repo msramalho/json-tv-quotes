@@ -1395,5 +1395,19 @@
         "source": "The Marvelous Mrs. Maisel",
         "quote": "Just because there is a door does not mean you use it. A door does not represent infinite possibilities.",
         "author": "Amy Sherman-Palladino"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Braveheart",
+        "quote": "Every man dies, but not every man really lives",
+        "author": "William Wallace"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Godfather",
+        "quote": "Great men are not born great, they grow great",
+        "author": "Mario Puzo"
     }
 ]
