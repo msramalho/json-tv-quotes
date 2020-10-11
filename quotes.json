@@ -1238,6 +1238,69 @@
     {
         "type": "tv",
         "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV.",
+        "author": "Morty Smith"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Rick and Morty",
+        "quote": "Life is effort and I'll stop when I die!",
+        "author": "Jerry Smith"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "F is for Family",
+        "quote": "Oh ho, you're lucky a priest is taking me into the woods!",
+        "author": "Frank Murphy"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Archer",
+        "quote": "I am not slurring my words, I'm talking in cursive.",
+        "author": "Sterling Archer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Archer",
+        "quote": "Karate? The dane cook of martial arts.",
+        "author": "Sterling Archer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Just remember, every time you look up at the moon, I, too, will be looking at a moon. Not the same moon, obviously, That's impossible.",
+        "author": "Andy Dwyer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Treat yo self.",
+        "author": "Donna Meagle and Tom Haverford"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "Can we have ONE conversation about feminism where MEN get to be in charge?",
+        "author": "Kip Bunthart"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Parks and Recreation",
+        "quote": "There's only one thing I hate more than lying: skim milk. Which is water that's lying about being milk.",
+        "author": "Ron Swanson"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
         "source": "The Simpsons",
         "quote": "I know you can read my thoughts, boy: meow, meow, meow, meow, meow...",
         "author": "Homer"
