@@ -1236,7 +1236,77 @@
         "author": "Bodhi"
     },
     {
-        "type": "movie",
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "I know you can read my thoughts, boy: meow, meow, meow, meow, meow...",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Bart, I don't want to alarm you, but there may be a boogie man or boogie men in the house!",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "You don't win friends with salad.",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "I'm normally not a praying man, but if you're up there, please save me, Superman.",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "To alcohol! The cause of, and solution to, all of life's problems!",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Don't blame me, I voted for Kodos.",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Must kill Moe, weee! Must kill Moe, weee!",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "It won't last. Brothers and sisters are natural enemies, like English men and Scots. Or Wales men and Scots. Or Japanese and Scots. Or Scots and other Scots. Damn Scots! They ruined Scotland!",
+        "author": "Willie"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Well, he's got all the money in the world, but there's one thing he can't buy: a dinosaur.",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
+        "quote": "Your potato? You can't, like, own a potato, man. It's one of Mother Earth's creatures.",
+        "author": "Homer"
+    },
+    {
+        "type": "tv",
         "language": "eng",
         "source": "Big Hero 6",
         "quote": "On a scale of one to ten, how would your rank your pain?",
