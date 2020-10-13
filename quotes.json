@@ -1429,5 +1429,12 @@
         "source": "Haikyuu",
         "quote": "You can fly even higher.",
         "author": "Tobio Kageyama"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Breaking Bad",
+        "quote": "If you believe that there’s a hell, I don’t know if you’re into that, but we’re already pretty much going there, right? But I’m not gonna lie down until I get there",
+        "author": "Walter White"
     }
 ]
