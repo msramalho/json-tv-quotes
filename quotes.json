@@ -1429,5 +1429,12 @@
         "source": "Haikyuu",
         "quote": "You can fly even higher.",
         "author": "Tobio Kageyama"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Harry Potter and the Prisoner of Azkaban",
+        "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+        "author": "Albus Dumbledore"
     }
 ]
