@@ -17,7 +17,7 @@ git clone https://github.com/msramalho/json-tv-quotes.git
 cd json-tv-quotes/api
 npm install
 ```
-Don't forget to creat an `.env` file: `cp .env.example .env`
+Don't forget to create an `.env` file: `cp .env.example .env`
 
 ## Production
 To create a production-ready deployment for the API service, you will need to build the project:
