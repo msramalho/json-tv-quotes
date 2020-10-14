@@ -1436,5 +1436,12 @@
         "source": "Breaking Bad",
         "quote": "If you believe that there's a hell, I don't know if you're into that, but we're already pretty much going there, right? But I'm not gonna lie down until I get there",
         "author": "Walter White"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Harry Potter and the Prisoner of Azkaban",
+        "quote": "Happiness can be found even in the darkest of times, when one only remembers to turn on the light.",
+        "author": "Albus Dumbledore"
     }
 ]
