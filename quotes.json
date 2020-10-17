@@ -1,5 +1,4 @@
-[
-    {
+[{
         "type": "tv",
         "language": "eng",
         "source": "Avatar the Last Airbender",
@@ -266,8 +265,7 @@
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    },
-    {
+    }, {
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -1311,6 +1309,13 @@
         "type": "tv",
         "language": "eng",
         "source": "The Simpsons",
+        "quote": "Worst. Episode. Ever",
+        "author": "Comic Book Guy"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
         "quote": "Bart, I don't want to alarm you, but there may be a boogie man or boogie men in the house!",
         "author": "Homer"
     },
@@ -1418,8 +1423,7 @@
         "source": "JoJo's Bizarre Adventure: Stardust Crusaders",
         "quote": "Oh? You're approaching me?",
         "author": "Dio Brando"
-    },
-    {
+    }, {
         "type": "movie",
         "language": "eng",
         "source": "The Curious Case of Benjamin Button",
@@ -1446,6 +1450,76 @@
         "source": "Harry Potter and the Prisoner of Azkaban",
         "quote": "Happiness can be found even in the darkest of times, when one only remembers to turn on the light.",
         "author": "Albus Dumbledore"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "Get Busy Living, Or Get Busy Dying.",
+        "author": "Andy Dufresne"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "There's Not A Day Goes By I Don't Feel Regret.",
+        "author": "Ellis Boyd Redding"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "I Have To Remind Myself That Some Birds Aren't Meant To Be Caged.",
+        "author": "Ellis Boyd Redding"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "I didn't choose the skuxx life, the skuxx life chose me.",
+        "author": "Ricky Baker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "Shit just got real! Back up, homies, and let go of my uncle!",
+        "author": "Ricky Baker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "It was a relaxing song... and a relaxing sausage.",
+        "author": "Ricky Baker"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Fresh Prince of Bel-Air",
+        "quote": "The most dangerous man in the world is the one who doesn't know what he doesn't know.",
+        "author": "Philip Banks (Uncle Phill)"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Gavin and Stacey",
+        "quote": "What's occuring?",
+        "author": "Nessa"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "RuPaul's Drag Race",
+        "quote": "If you can't love yourself, how in the hell are you gonna love somebody else!",
+        "author": "RuPaul"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Family Guy",
+        "quote": "I May Be An Idiot, But There's One Thing I'm Not Sir, And That Is An Idiot.",
+        "author": "Peter Griffin"
     },
     {
         "type": "movie",
