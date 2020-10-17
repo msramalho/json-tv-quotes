@@ -1464,5 +1464,26 @@
         "source": "The Shawshank Redemption",
         "quote": "I Have To Remind Myself That Some Birds Aren't Meant To Be Caged.",
         "author": "Ellis Boyd Redding"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "I didn't choose the skuxx life, the skuxx life chose me.",
+        "author": "Ricky Baker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "Shit just got real! Back up, homies, and let go of my uncle!",
+        "author": "Ricky Baker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Hunt for the Wilderpeople",
+        "quote": "It was a relaxing song... and a relaxing sausage.",
+        "author": "Ricky Baker"
     }
 ]
