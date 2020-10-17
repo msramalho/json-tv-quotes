@@ -1443,5 +1443,12 @@
         "source": "Harry Potter and the Prisoner of Azkaban",
         "quote": "Happiness can be found even in the darkest of times, when one only remembers to turn on the light.",
         "author": "Albus Dumbledore"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "RuPaul's Drag Race",
+        "quote": "If you can't love yourself, how in the hell are you gonna love somebody else!",
+        "author": "RuPaul"
     }
 ]
