@@ -1499,5 +1499,12 @@
         "source": "Gavin and Stacey",
         "quote": "What's occuring?",
         "author": "Nessa"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "RuPaul's Drag Race",
+        "quote": "If you can't love yourself, how in the hell are you gonna love somebody else!",
+        "author": "RuPaul"
     }
 ]
