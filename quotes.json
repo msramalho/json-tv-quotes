@@ -1,5 +1,4 @@
-[
-    {
+[{
         "type": "tv",
         "language": "eng",
         "source": "Avatar the Last Airbender",
@@ -266,8 +265,7 @@
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    },
-    {
+    }, {
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -1418,8 +1416,7 @@
         "source": "JoJo's Bizarre Adventure: Stardust Crusaders",
         "quote": "Oh? You're approaching me?",
         "author": "Dio Brando"
-    },
-    {
+    }, {
         "type": "movie",
         "language": "eng",
         "source": "The Curious Case of Benjamin Button",
