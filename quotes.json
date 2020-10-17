@@ -1443,5 +1443,26 @@
         "source": "Harry Potter and the Prisoner of Azkaban",
         "quote": "Happiness can be found even in the darkest of times, when one only remembers to turn on the light.",
         "author": "Albus Dumbledore"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "Get Busy Living, Or Get Busy Dying.",
+        "author": "Andy Dufresne"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "There's Not A Day Goes By I Don't Feel Regret.",
+        "author": "Ellis Boyd Redding"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shawshank Redemption",
+        "quote": "I Have To Remind Myself That Some Birds Aren't Meant To Be Caged.",
+        "author": "Ellis Boyd Redding"
     }
 ]
