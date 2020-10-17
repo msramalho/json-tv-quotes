@@ -1309,6 +1309,13 @@
         "type": "tv",
         "language": "eng",
         "source": "The Simpsons",
+        "quote": "Worst. Episode. Ever",
+        "author": "Comic Book Guy"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Simpsons",
         "quote": "Bart, I don't want to alarm you, but there may be a boogie man or boogie men in the house!",
         "author": "Homer"
     },
