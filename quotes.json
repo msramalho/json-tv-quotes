@@ -1520,5 +1520,33 @@
         "source": "Family Guy",
         "quote": "I May Be An Idiot, But There's One Thing I'm Not Sir, And That Is An Idiot.",
         "author": "Peter Griffin"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Imitation Game",
+        "quote": "Machines can never think as humans do but just because something thinks differently from you, does it mean it's not thinking?",
+        "author": "Alan Turing"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Imitation Game",
+        "quote": "Was I God? No. Because God didn't win the war. We did.",
+        "author": "Alan Turing"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Imitation Game",
+        "quote": "Are you paying attention?",
+        "author": "Alan Turing"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Imitation Game",
+        "quote": "I know it's not ordinary. But who ever loved ordinary?",
+        "author": "Joan Clarke"
     }
 ]
