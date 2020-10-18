@@ -1548,5 +1548,12 @@
         "source": "The Imitation Game",
         "quote": "I know it's not ordinary. But who ever loved ordinary?",
         "author": "Joan Clarke"
+    },
+    {
+        "type": "movie",
+        "language": "rus",
+        "source": "Dau",
+        "quote": "The film deals with the life of the Nobel Prize-winning Soviet scientist Lev Landau.",
+        "author": "Ilya Khrzhanovsky"
     }
 ]
