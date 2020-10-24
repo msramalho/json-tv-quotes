@@ -1569,5 +1569,40 @@
         "source": "The Office",
         "quote": "I am running away from my responsibilities. And it feels good.",
         "author": "Michael Scott"
+    }, {
+
+        "type": "movie",
+        "language": "eng",
+        "source": "Love, Rosie",
+        "quote": "That's what life is about: People come and go.",
+        "author": "Cecelia Ahern"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Love, Rosie",
+        "quote": "Age is just a number, not a state of mind or a reason for any type of particular behaviour.",
+        "author": "Cecelia Ahern"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Love, Rosie",
+        "quote": "I've learned that home isn't a place, it's a feeling.",
+        "author": "Cecelia Ahern"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Umbrella Academy",
+        "quote": "We Didn't Choose This Life, We're Just Living In It.",
+        "author": "Five"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Umbrella Academy",
+        "quote": "We're All Looking For Happy.",
+        "author": "The Handler"
     }
 ]
