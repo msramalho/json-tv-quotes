@@ -1555,5 +1555,12 @@
         "source": " Finding Nemo",
         "quote": "Just keep swimming",
         "author": "Dory"
+    },
+    {
+        "type": "movie",
+        "language": "rus",
+        "source": "Dau",
+        "quote": "The film deals with the life of the Nobel Prize-winning Soviet scientist Lev Landau.",
+        "author": "Ilya Khrzhanovsky"
     }
 ]
