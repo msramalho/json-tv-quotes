@@ -1548,5 +1548,12 @@
         "source": "The Imitation Game",
         "quote": "I know it's not ordinary. But who ever loved ordinary?",
         "author": "Joan Clarke"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": " Finding Nemo",
+        "quote": "Just keep swimming",
+        "author": "Dory"
     }
 ]
