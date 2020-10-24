@@ -1552,6 +1552,27 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": " Finding Nemo",
+        "quote": "Just keep swimming",
+        "author": "Dory"
+    },
+    {
+        "type": "movie",
+        "language": "rus",
+        "source": "Dau",
+        "quote": "The film deals with the life of the Nobel Prize-winning Soviet scientist Lev Landau.",
+        "author": "Ilya Khrzhanovsky"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Office",
+        "quote": "I am running away from my responsibilities. And it feels good.",
+        "author": "Michael Scott"
+    }, {
+
+        "type": "movie",
+        "language": "eng",
         "source": "Love, Rosie",
         "quote": "That's what life is about: People come and go.",
         "author": "Cecelia Ahern"
@@ -1567,7 +1588,7 @@
         "type": "movie",
         "language": "eng",
         "source": "Love, Rosie",
-        "quote": "I’ve learned that home isn’t a place, it’s a feeling.",
+        "quote": "I've learned that home isn't a place, it's a feeling.",
         "author": "Cecelia Ahern"
     },
     {
@@ -1583,12 +1604,5 @@
         "source": "The Umbrella Academy",
         "quote": "We're All Looking For Happy.",
         "author": "The Handler"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "The Umbrella Academy",
-        "quote": "If You Believe In Yourself Once, Just Once, Great Things Are Gonna Happen For You.",
-        "author": "Leonard"
     }
 ]
