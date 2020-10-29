@@ -1604,5 +1604,33 @@
         "source": "The Umbrella Academy",
         "quote": "We're All Looking For Happy.",
         "author": "The Handler"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Handmaids Tale",
+        "quote": "Cows don’t get married.",
+        "author": "Janine"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Handmaids Tale",
+        "quote": "Love is patient love is kind.",
+        "author": "Eden"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Handmaids Tale",
+        "quote": "I don’t need oranges. I need to scream. I need to grab the nearest machine gun.",
+        "author": "June"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Handmaids Tale",
+        "quote": "Praised be, bitch.",
+        "author": "Moira"
     }
 ]
