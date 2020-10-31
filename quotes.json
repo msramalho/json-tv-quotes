@@ -1632,5 +1632,12 @@
         "source": "The Handmaids Tale",
         "quote": "Praised be, bitch.",
         "author": "Moira"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Breaking Bad",
+        "quote": "No, you clearly don't know who you're talking to, so let me clue you in. I am not in danger, Skyler. I am the danger! A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!",
+        "author": "Walter White"
     }
 ]
