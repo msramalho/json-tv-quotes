@@ -1133,6 +1133,13 @@
     {
         "type": "movie",
         "language": "eng",
+        "source": "Harry Potter and the Goblet of Fire",
+        "quote": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+        "author": "Sirius Black"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
         "source": "Kung fu Panda",
         "quote": "One often meets his destiny on the road he takes to avoid it.",
         "author": "Master Oogway"
