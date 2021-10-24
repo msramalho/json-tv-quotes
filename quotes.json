@@ -1660,5 +1660,12 @@
         "source": "Maid",
         "quote": "It took me five tries.",
         "author": "old lady"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Matrix",
+        "quote": "Hope. It is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.",
+        "author": "The Architect"
     }
 ]
