@@ -1667,5 +1667,12 @@
         "source": "The Matrix",
         "quote": "Hope. It is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.",
         "author": "The Architect"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Matrix Revolutions",
+        "quote": "It is remarkable how similar the pattern of love is to the pattern of insanity.",
+        "author": "Merovingian"
     }
 ]
