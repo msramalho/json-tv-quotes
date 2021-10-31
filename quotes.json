@@ -1695,5 +1695,12 @@
         "source": "Luca",
         "quote": "Silenzio Bruno!",
         "author": "Luca & Alberto"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Tinker Tailor Soldier Spy",
+        "quote": "It's the oldest question of all, George. Who can spy on the spies?",
+        "author": "Oliver Lacon"
     }
 ]
