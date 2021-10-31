@@ -1674,5 +1674,12 @@
         "source": "The Matrix Revolutions",
         "quote": "It is remarkable how similar the pattern of love is to the pattern of insanity.",
         "author": "Merovingian"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Pirates of the Caribbean",
+        "quote": "If you were waiting for the opportune moment, that was it.",
+        "author": "Captain Jack Sparrow"
     }
 ]
