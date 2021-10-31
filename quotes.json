@@ -1681,5 +1681,12 @@
         "source": "Pirates of the Caribbean",
         "quote": "If you were waiting for the opportune moment, that was it.",
         "author": "Captain Jack Sparrow"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Black Sails",
+        "quote": "Everyone is a monster to someone. Since you are so convinced that I am yours. I will be it.",
+        "author": "Captain Flint"
     }
 ]
