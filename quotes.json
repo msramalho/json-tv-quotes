@@ -1709,5 +1709,12 @@
         "source": "Snowpiercer",
         "quote": "This is our leap of faith.",
         "author": "Andre Layton"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "House Of The Dragon",
+        "quote": "Men would sooner put the realm to the torch than see a woman ascend the Iron Throne.",
+        "author": "Princess Rhaenys Velaryon"
     }
 ]
