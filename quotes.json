@@ -1716,5 +1716,19 @@
         "source": "House Of The Dragon",
         "quote": "Men would sooner put the realm to the torch than see a woman ascend the Iron Throne.",
         "author": "Princess Rhaenys Velaryon"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Transformers",
+        "quote": "Me, Grimlock, want to munch metal!",
+        "author": "Grimlock"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Office (US)",
+        "quote": "I’ve been involved in a number of cults, both as a leader and a follower. You have more fun as a follower. But you make more money as a leader.",
+        "author": "Creed Bratton"
     }
 ]
